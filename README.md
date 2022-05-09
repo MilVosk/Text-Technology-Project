@@ -16,10 +16,10 @@ Initially, our dataset was in .csv format, so, we transformed it into .txt forma
 # Document header
 Since our purpose was to use LAF/GrAF to represent our annotations, we created the Document Header which contains information about the primary data document and annotation document
 
-#Resource header
+# Resource header
 It provides more detailed information about the resource as a whole
 
-# Segmentation header: 
+# Segmentation header 
 In our dataset, each tweet is considered to be one segment. Here, we have defined the anchors of each tweet.
 
 # Annotation document
